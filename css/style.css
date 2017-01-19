@@ -1,0 +1,12 @@
+.one {width: 25%;
+	height: 1440px;
+	background-color: white;
+	font-size: 30px;
+	text-align: right;
+	float: right;
+	
+}
+
+.stuff {
+	float: left;
+}
